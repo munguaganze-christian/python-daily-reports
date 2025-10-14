@@ -1,2 +1,2 @@
-# Python_programming
-Python programming course's code
+# python-daily-report
+Tis repo contains lesson materials, examples, exercices for learnig the "The Unix/Linux shell"
